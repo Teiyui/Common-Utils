@@ -1,0 +1,14 @@
+{
+  "hobby": {
+    "basketball":1
+  },
+
+  "name": "Youwei Zheng",
+
+  "homework":[
+    {
+      "english": "Cat",
+      "history": "Tang"
+    }
+  ]
+}
